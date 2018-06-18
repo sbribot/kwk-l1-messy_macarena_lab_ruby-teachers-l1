@@ -9,6 +9,3 @@ def about_me
 end
 
 about_me
-about_me
-about_me
-about_me
