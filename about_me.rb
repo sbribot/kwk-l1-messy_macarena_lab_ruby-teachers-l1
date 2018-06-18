@@ -8,3 +8,4 @@ def about_me
   puts "hashtag trust issues"
 end
 
+puts about_me
